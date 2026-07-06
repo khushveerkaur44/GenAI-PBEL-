@@ -1,0 +1,3 @@
+Student Placement Prediction is a Machine Learning project that aims to predict whether a student will be placed or not based on academic performance and skill-related factors. The dataset includes features such as CGPA, aptitude score, technical skills, communication skills, internship experience, and attendance.
+
+In this project, data preprocessing, feature scaling, and model training techniques were applied to build predictive models. Four classification algorithms—Logistic Regression, K-Nearest Neighbors (KNN), Decision Tree, and Random Forest—were implemented and compared based on their performance. The objective is to identify the most effective algorithm for predicting student placement outcomes and gain insights into the factors influencing placement success.
